@@ -1,0 +1,10 @@
+#content {
+    /* Ancho de una pagina de word*/
+    width: 595px;
+    /* height: 842px; */
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+}
